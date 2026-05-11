@@ -1,0 +1,28 @@
+const testimonios = [
+  { id: 1, nombre: 'Ana Pérez', cargo: 'CEO - EmpresaX',
+    texto: 'Este servicio cambió la forma en que trabajamos. ¡Altamente recomendado!',
+    foto: 'https://i.pravatar.cc/150?img=32' },
+  { id: 2, nombre: 'Luis García', cargo: 'Freelancer',
+    texto: 'Me ayudó a duplicar mis clientes. Fácil de usar y fiable.',
+    foto: 'https://i.pravatar.cc/150?img=12' },
+  { id: 3, nombre: 'María López', cargo: 'Marketing Lead',
+    texto: 'Resultados visibles en pocas semanas. Excelente soporte.',
+    foto: 'https://i.pravatar.cc/150?img=45' },
+  { id: 4, nombre: 'Carlos Mendoza', cargo: 'Director de Operaciones',
+    texto: 'Implementamos la herramienta en todo el equipo y la productividad mejoró notablemente.',
+    foto: 'https://i.pravatar.cc/150?img=7' },
+  { id: 5, nombre: 'Sofía Ramírez', cargo: 'Diseñadora UX',
+    texto: 'La interfaz es intuitiva y el soporte siempre está disponible. ¡Cinco estrellas!',
+    foto: 'https://i.pravatar.cc/150?img=47' },
+  { id: 6, nombre: 'Jorge Herrera', cargo: 'Desarrollador Full Stack',
+    texto: 'Integración sencilla y documentación clara. Lo recomiendo a cualquier dev.',
+    foto: 'https://i.pravatar.cc/150?img=15' },
+  { id: 7, nombre: 'Valentina Cruz', cargo: 'Gerente de Ventas',
+    texto: 'Desde que lo usamos, cerramos un 30% más de contratos. Resultados reales.',
+    foto: 'https://i.pravatar.cc/150?img=56' },
+  { id: 8, nombre: 'Roberto Ávila', cargo: 'Emprendedor',
+    texto: 'El mejor servicio que he contratado para mi startup. Simple y poderoso.',
+    foto: 'https://i.pravatar.cc/150?img=22' },
+];
+
+export default testimonios;
